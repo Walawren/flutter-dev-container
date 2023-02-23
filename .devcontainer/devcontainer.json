@@ -16,7 +16,7 @@
 	"jeroen-meijer.pubspec-assist"
 ],
   // Use 'postCreateCommand' to run commands after the container is created.
-  "postCreateCommand": "./scripts/postContainerCreate.sh",
+  // "postCreateCommand": "./scripts/postContainerCreate.sh",
   "forwardPorts": [
     5000, // HTTP
     9005
